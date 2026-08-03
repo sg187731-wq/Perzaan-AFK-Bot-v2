@@ -7,7 +7,7 @@
   },
   "server": {
     "ip": "flexy_xr.aternos.me",
-    "port": :41628,
+    "port": 41628,
     "version": "1.21.1"
   },
   "position": {
